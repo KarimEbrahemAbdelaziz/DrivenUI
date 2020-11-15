@@ -293,9 +293,10 @@ Every supported view component is consist of 4 keys each one take a place based 
 
 ### TODO
 Please check **_[CHANGELOG]()_** file for more information to know what's included in each version.
-- [ ] Create website for DrivenUI.
+- [ ] Create website for DrivenUI SDK.
 - [ ] Setup CI/CD workflows using Bitrise. 
 - [ ] Add backward compatibility to JSON views.
+- [ ] Support different Operating Systems (tvOS, macOS, and watchOS)
 - [ ] Support more views.
 - [ ] Support more view modifiers.
 - [ ] Support view's actions.

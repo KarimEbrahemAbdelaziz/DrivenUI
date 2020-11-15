@@ -8,6 +8,15 @@ import Security
 import Swift
 import SwiftUI
 import UIKit
+@_hasMissingDesignatedInitializers public class ViewProperties : Swift.Codable {
+  @objc deinit
+  required public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: Swift.Encoder) throws
+}
+@_hasMissingDesignatedInitializers public class DrivenUI {
+  public static func configure(with licenseKey: Swift.String)
+  @objc deinit
+}
 @_hasMissingDesignatedInitializers public class DrivenComponent : Swift.Codable, Swift.Identifiable {
   public var id: Foundation.UUID
   @objc deinit
@@ -19,15 +28,6 @@ import UIKit
   @objc deinit
   required public init(from decoder: Swift.Decoder) throws
   public func encode(to encoder: Swift.Encoder) throws
-}
-@_hasMissingDesignatedInitializers public class ViewProperties : Swift.Codable {
-  @objc deinit
-  required public init(from decoder: Swift.Decoder) throws
-  public func encode(to encoder: Swift.Encoder) throws
-}
-@_hasMissingDesignatedInitializers public class Driven {
-  public static func configure(with licenseKey: Swift.String)
-  @objc deinit
 }
 public struct DrivenComponentFactory {
   public init(material: DrivenUI.DrivenComponent)
