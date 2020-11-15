@@ -4,30 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/Kingfisher.framework/Info.plist</key>
-		<data>
-		RCAUxe3LCHQpe/J6Ljo1thtXJmg=
-		</data>
-		<key>Frameworks/Kingfisher.framework/Kingfisher</key>
-		<data>
-		xELKqyFNkMNAi7qpjvPzFaeqOGM=
-		</data>
-		<key>Frameworks/Kingfisher.framework/_CodeSignature/CodeResources</key>
-		<data>
-		afl6hlHT7ld7q6wwf/KpnAEbyT8=
-		</data>
-		<key>Frameworks/KingfisherSwiftUI.framework/Info.plist</key>
-		<data>
-		TfRi9E89+Md0KGG4jmn+fMynfy8=
-		</data>
-		<key>Frameworks/KingfisherSwiftUI.framework/KingfisherSwiftUI</key>
-		<data>
-		QRHyP4qvUK7C1Z6JnsSj/TiCORE=
-		</data>
-		<key>Frameworks/KingfisherSwiftUI.framework/_CodeSignature/CodeResources</key>
-		<data>
-		0wEQyr1imx0McHRoByWs0rTwm20=
-		</data>
 		<key>Headers/DrivenUI-Swift.h</key>
 		<data>
 		HgjUvqwymMhpHbeTilb4ChO2bWU=
@@ -46,11 +22,11 @@
 		</data>
 		<key>Modules/DrivenUI.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		m7ITHhPM+jVhlyAvQgduYZr3vbU=
+		z2ooZEeV6g7kTMsBVCssfZuowDw=
 		</data>
 		<key>Modules/DrivenUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		3zNJiQDAbNYwq5wBdHivO+hQiEQ=
+		ud/vlgBSQ/sxgYRvqMIuo3XZzCI=
 		</data>
 		<key>Modules/DrivenUI.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -58,11 +34,11 @@
 		</data>
 		<key>Modules/DrivenUI.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		m7ITHhPM+jVhlyAvQgduYZr3vbU=
+		z2ooZEeV6g7kTMsBVCssfZuowDw=
 		</data>
 		<key>Modules/DrivenUI.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		3zNJiQDAbNYwq5wBdHivO+hQiEQ=
+		ud/vlgBSQ/sxgYRvqMIuo3XZzCI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,48 +47,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/Kingfisher.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SL7ftEEeRwv/gzWtqiTjSKvnXFfaPHVkwUuJsnxeTxY=
-			</data>
-		</dict>
-		<key>Frameworks/Kingfisher.framework/Kingfisher</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RaZ9gSVlMqkeMxiQbP9Tk+z/wotmFhq3DiXzKtFj1kc=
-			</data>
-		</dict>
-		<key>Frameworks/Kingfisher.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fnHLK8T0C1wyv6GFFE0byeH2CK/BLnzEbJiEyvny0aE=
-			</data>
-		</dict>
-		<key>Frameworks/KingfisherSwiftUI.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			X2nd/VFqz9GOaUQP52fzDR4FJPBgFHdSrnmnls+0ZK4=
-			</data>
-		</dict>
-		<key>Frameworks/KingfisherSwiftUI.framework/KingfisherSwiftUI</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UwMf5MNFykTsu+OK4V4y3gzXiD6xxGVn6UpMkEQF8po=
-			</data>
-		</dict>
-		<key>Frameworks/KingfisherSwiftUI.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pPdE48+ZA4I8NO5BEm4JUtWxF1p3fwygnFrJwYjjiW0=
-			</data>
-		</dict>
 		<key>Headers/DrivenUI-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -138,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jiy7IF/uS6Xc3DomHqB/N/ahuQUwLhl6W4ztpbRE75I=
+			JV3nHxuyd3dsnCU/doDRHz44EwJ9t0aKPtsgBOGpMR0=
 			</data>
 		</dict>
 		<key>Modules/DrivenUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ctMBjZF7W53dt8TPMHag+1bs/Iab5qL7bRdX8xB8PhM=
+			BCkdrzJvCSpIGM5p+4302FaAPmZqLg3iz9CCKRJrpNg=
 			</data>
 		</dict>
 		<key>Modules/DrivenUI.swiftmodule/arm64.swiftdoc</key>
@@ -159,14 +93,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jiy7IF/uS6Xc3DomHqB/N/ahuQUwLhl6W4ztpbRE75I=
+			JV3nHxuyd3dsnCU/doDRHz44EwJ9t0aKPtsgBOGpMR0=
 			</data>
 		</dict>
 		<key>Modules/DrivenUI.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ctMBjZF7W53dt8TPMHag+1bs/Iab5qL7bRdX8xB8PhM=
+			BCkdrzJvCSpIGM5p+4302FaAPmZqLg3iz9CCKRJrpNg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
