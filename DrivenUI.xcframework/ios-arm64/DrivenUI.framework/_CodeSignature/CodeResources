@@ -4,13 +4,25 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/Kingfisher.framework/Info.plist</key>
+		<data>
+		RCAUxe3LCHQpe/J6Ljo1thtXJmg=
+		</data>
+		<key>Frameworks/Kingfisher.framework/Kingfisher</key>
+		<data>
+		xELKqyFNkMNAi7qpjvPzFaeqOGM=
+		</data>
+		<key>Frameworks/Kingfisher.framework/_CodeSignature/CodeResources</key>
+		<data>
+		afl6hlHT7ld7q6wwf/KpnAEbyT8=
+		</data>
 		<key>Frameworks/KingfisherSwiftUI.framework/Info.plist</key>
 		<data>
 		TfRi9E89+Md0KGG4jmn+fMynfy8=
 		</data>
 		<key>Frameworks/KingfisherSwiftUI.framework/KingfisherSwiftUI</key>
 		<data>
-		stEEgkJ04GRLni3FuCkD6EWFnDg=
+		QRHyP4qvUK7C1Z6JnsSj/TiCORE=
 		</data>
 		<key>Frameworks/KingfisherSwiftUI.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -59,6 +71,27 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/Kingfisher.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SL7ftEEeRwv/gzWtqiTjSKvnXFfaPHVkwUuJsnxeTxY=
+			</data>
+		</dict>
+		<key>Frameworks/Kingfisher.framework/Kingfisher</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RaZ9gSVlMqkeMxiQbP9Tk+z/wotmFhq3DiXzKtFj1kc=
+			</data>
+		</dict>
+		<key>Frameworks/Kingfisher.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fnHLK8T0C1wyv6GFFE0byeH2CK/BLnzEbJiEyvny0aE=
+			</data>
+		</dict>
 		<key>Frameworks/KingfisherSwiftUI.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -70,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7Cfz+DhuQVdZ44LgzlTVpmwccTHCUfo6YOI56GR9J20=
+			UwMf5MNFykTsu+OK4V4y3gzXiD6xxGVn6UpMkEQF8po=
 			</data>
 		</dict>
 		<key>Frameworks/KingfisherSwiftUI.framework/_CodeSignature/CodeResources</key>

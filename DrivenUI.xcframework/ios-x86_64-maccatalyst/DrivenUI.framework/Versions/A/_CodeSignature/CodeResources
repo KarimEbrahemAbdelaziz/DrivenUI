@@ -11,6 +11,15 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/Kingfisher.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			giM8MS5o29nzG5zZr0SwDZyJVj8=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.onevcat.Kingfisher" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: karim.ebrahem@areebgroup.com (WWUS7WU2JX)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
 		<key>Frameworks/KingfisherSwiftUI.framework</key>
 		<dict>
 			<key>cdhash</key>
