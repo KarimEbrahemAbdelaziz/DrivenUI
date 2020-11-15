@@ -1,0 +1,11 @@
+framework module DrivenUI {
+  umbrella header "DrivenUI.h"
+
+  export *
+  module * { export * }
+}
+
+module DrivenUI.Swift {
+    header "DrivenUI-Swift.h"
+    requires objc
+}
