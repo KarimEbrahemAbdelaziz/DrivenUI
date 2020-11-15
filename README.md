@@ -29,7 +29,7 @@
 
 **DrivenUI** is an iOS SDK which makes introducing and building **Server Driven UI** feature into iOS Applications much more convenient. Currently it's based on **JSON** response format to render **SwiftUI** views on the screen.
 
-<img src="https://i.imgur.com/6i8cHJr.png" width="20", height="20"> Star us on GitHub — it helps!
+⭐️ Star us on GitHub — it helps!
 
 ## Table of content
 - [Requirments](#requirments)
@@ -293,7 +293,7 @@ Every supported view component is consist of 4 keys each one take a place based 
     - `black`
 
 ### TODO
-Please check **_[CHANGELOG]()_** file for more information to know what's included in each version.
+Please check **_[CHANGELOG](https://github.com/KarimEbrahemAbdelaziz/DrivenUI/blob/main/CHANGELOG.md)_** file for more information to know what's included in each version.
 - [ ] Create website for DrivenUI SDK.
 - [ ] Setup CI/CD workflows using Bitrise. 
 - [ ] Add backward compatibility to JSON views.
@@ -307,4 +307,4 @@ Please check **_[CHANGELOG]()_** file for more information to know what's includ
 - [ ] Build material components library.
  
 ### License
-- You could find license information **_[HERE]()_**.
+- You could find license information **_[HERE](https://github.com/KarimEbrahemAbdelaziz/DrivenUI/blob/main/LICENSE)_**.
