@@ -148,10 +148,10 @@ Every supported view component is consist of 4 keys each one take a place based 
     "subviews": { }
 }
 ```
-<br>
+
 <details>
 <summary>Text View Example</summary>
-<p>
+    
 ```
 {
   "type": "Text",
@@ -166,12 +166,11 @@ Every supported view component is consist of 4 keys each one take a place based 
   }
 }
 ```
-</p>
 </details>
 
 <details>
 <summary>Image View Example</summary>
-<p>
+
 ```
 {
   "type": "Image",
@@ -183,12 +182,12 @@ Every supported view component is consist of 4 keys each one take a place based 
   }
 }
 ```
-</p>
+
 </details>
 
 <details>
 <summary>HStack View Example</summary>
-<p>
+
 ```
 {
   "type": "HStack",
@@ -238,7 +237,7 @@ Every supported view component is consist of 4 keys each one take a place based 
   ]
 }
 ```
-</p>
+
 </details>
 
 #### Supported Views
