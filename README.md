@@ -60,7 +60,6 @@
 pod 'DrivenUI', '~> 0.1.0'
 ```
 
-
 #### Swift Package Manager
 
 The [Swift Package Manager](https://swift.org/package-manager/) is a tool for automating the distribution of Swift code and is integrated into the `swift` compiler. It is in early development, but Driven does support its use on supported platforms.
@@ -72,6 +71,7 @@ dependencies: [
     .package(url: "https://github.com/KarimEbrahemAbdelaziz/DrivenUI.git", .exact("0.1.0"))
 ]
 ```
+
 ### Usage
 #### Init SDK
 1. As we're in `BETA` version, please fill an Issue with your application `Bundle Id` and leave your email and we will send you instantly your DrivenUI SDK Key.
@@ -106,8 +106,8 @@ if let response = response {
     }
 }
 ```
-<br>
 In your Content View add this build function:
+
 ```swift
 @ViewBuilder func buildView() -> some View {
     if let serverView = viewModel.serverView {
@@ -117,7 +117,7 @@ In your Content View add this build function:
     }
 }
 ```
-<br>
+
 Use this `buildView` inside your view hierarchy:
 
 ```swift
@@ -129,8 +129,7 @@ var body: some View {
     }
 }
 ```
-<br>
-And VOILA your have your views rendered on the screen 🔥
+And **VOILA** you have your views rendered on the screen 🔥
 
 #### JSON Structure
 Every supported view component is consist of 4 keys each one take a place based on the Component you need to render:
