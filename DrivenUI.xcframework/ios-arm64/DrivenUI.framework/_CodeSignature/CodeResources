@@ -18,27 +18,27 @@
 		</data>
 		<key>Modules/DrivenUI.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		UhtOnsJdlJmo2eGybcjyQIjS/qk=
+		10L8et+lOihKfq6El9gWJUymNp4=
 		</data>
 		<key>Modules/DrivenUI.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		z2ooZEeV6g7kTMsBVCssfZuowDw=
+		ZzCjKs0w9dtXCtdJhLVt22o90ug=
 		</data>
 		<key>Modules/DrivenUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ud/vlgBSQ/sxgYRvqMIuo3XZzCI=
+		TDcdwm7lwpi7lQcumIqZGCP5xCk=
 		</data>
 		<key>Modules/DrivenUI.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		UhtOnsJdlJmo2eGybcjyQIjS/qk=
+		10L8et+lOihKfq6El9gWJUymNp4=
 		</data>
 		<key>Modules/DrivenUI.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		z2ooZEeV6g7kTMsBVCssfZuowDw=
+		ZzCjKs0w9dtXCtdJhLVt22o90ug=
 		</data>
 		<key>Modules/DrivenUI.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ud/vlgBSQ/sxgYRvqMIuo3XZzCI=
+		TDcdwm7lwpi7lQcumIqZGCP5xCk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,42 +65,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bab7OrSUF0fU44JTBs8biNJDfGWTLFf5RGrwOmsSB4M=
+			S0BHJbZ2stnlhtw3gonuFr5d6CK65nWErzbGqizetW4=
 			</data>
 		</dict>
 		<key>Modules/DrivenUI.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JV3nHxuyd3dsnCU/doDRHz44EwJ9t0aKPtsgBOGpMR0=
+			5oRH8kk+sZuXboiUVOrPTwFkrc34iiWZ6SKueD7jGFw=
 			</data>
 		</dict>
 		<key>Modules/DrivenUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BCkdrzJvCSpIGM5p+4302FaAPmZqLg3iz9CCKRJrpNg=
+			Mgjd9a+HNk5EavXGte2baQo6EFvM2rxA0UfgoYTEpJI=
 			</data>
 		</dict>
 		<key>Modules/DrivenUI.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bab7OrSUF0fU44JTBs8biNJDfGWTLFf5RGrwOmsSB4M=
+			S0BHJbZ2stnlhtw3gonuFr5d6CK65nWErzbGqizetW4=
 			</data>
 		</dict>
 		<key>Modules/DrivenUI.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JV3nHxuyd3dsnCU/doDRHz44EwJ9t0aKPtsgBOGpMR0=
+			5oRH8kk+sZuXboiUVOrPTwFkrc34iiWZ6SKueD7jGFw=
 			</data>
 		</dict>
 		<key>Modules/DrivenUI.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BCkdrzJvCSpIGM5p+4302FaAPmZqLg3iz9CCKRJrpNg=
+			Mgjd9a+HNk5EavXGte2baQo6EFvM2rxA0UfgoYTEpJI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

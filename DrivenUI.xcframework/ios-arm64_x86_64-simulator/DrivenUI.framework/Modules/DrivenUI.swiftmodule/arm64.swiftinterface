@@ -13,7 +13,7 @@ import UIKit
   required public init(from decoder: Swift.Decoder) throws
   public func encode(to encoder: Swift.Encoder) throws
 }
-@_hasMissingDesignatedInitializers public class DrivenUI {
+@_hasMissingDesignatedInitializers public class Driven {
   public static func configure(with licenseKey: Swift.String)
   @objc deinit
 }
