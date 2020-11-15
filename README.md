@@ -150,7 +150,7 @@ Every supported view component is consist of 4 keys each one take a place based 
 ```
 
 <details>
-<summary>Text View Example</summary>
+<summary>Backend Response for Text View Example</summary>
     
 ```
 {
@@ -169,7 +169,7 @@ Every supported view component is consist of 4 keys each one take a place based 
 </details>
 
 <details>
-<summary>Image View Example</summary>
+<summary>Backend Response for Image View Example</summary>
 
 ```
 {
@@ -186,7 +186,7 @@ Every supported view component is consist of 4 keys each one take a place based 
 </details>
 
 <details>
-<summary>HStack View Example</summary>
+<summary>Backend Response for HStack View Example</summary>
 
 ```
 {
@@ -302,7 +302,7 @@ Please check **_[CHANGELOG](https://github.com/KarimEbrahemAbdelaziz/DrivenUI/bl
 - [ ] Support view's actions.
 - [ ] Support navigation.
 - [ ] Support Protocol Buffers.
-- [ ] Document all supported views.
+- [ ] Document all supported views and add more examples and use cases.
 - [ ] Build material components library.
  
 ### License
