@@ -29,42 +29,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iCV5FHZIGkz6IJZ5XCHPMQyhm16g705UEdIMmpV9OR0=
+			imFWMFLNvcrp14kOBxQ1zg3psRtypoC5V/mdVjq0dnk=
 			</data>
 		</dict>
 		<key>Modules/DrivenUI.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UECj0SBcKtDE6NbN25z5V7TiTV7a8VjUAmZ8sDboB3g=
+			wM9yivpbk58odDyO9wGeAvv3Q1lPsGq7xTwaVQBVqKw=
 			</data>
 		</dict>
 		<key>Modules/DrivenUI.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g78BSdqEUgIxvzKBSaWn1nMhh1vcFCm9oC/X9TiLTVw=
+			di+OcsnEERwbwWdEGljSDe8DaRipv/AiSWQE7x/YhL0=
 			</data>
 		</dict>
 		<key>Modules/DrivenUI.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iCV5FHZIGkz6IJZ5XCHPMQyhm16g705UEdIMmpV9OR0=
+			imFWMFLNvcrp14kOBxQ1zg3psRtypoC5V/mdVjq0dnk=
 			</data>
 		</dict>
 		<key>Modules/DrivenUI.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UECj0SBcKtDE6NbN25z5V7TiTV7a8VjUAmZ8sDboB3g=
+			wM9yivpbk58odDyO9wGeAvv3Q1lPsGq7xTwaVQBVqKw=
 			</data>
 		</dict>
 		<key>Modules/DrivenUI.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g78BSdqEUgIxvzKBSaWn1nMhh1vcFCm9oC/X9TiLTVw=
+			di+OcsnEERwbwWdEGljSDe8DaRipv/AiSWQE7x/YhL0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

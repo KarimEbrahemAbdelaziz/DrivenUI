@@ -44,17 +44,6 @@
 - [TODO](#todo)
 - [License](#license)
 
-### Init SDK
-1. As we're in `BETA` version, please fill an Issue with your application `Bundle Id` and leave your email and we will send you instantly your DrivenUI SDK Key.
-
-2. You have two ways to init DrivenUI in your application.
-    - If you are using SwiftUI new application life cycle, add configure method into `init` for your main App.
-    - If you are using `AppDelegate`, add configure method into `didFinishLaunchWithOptions` method.
-
-```swift
-DrivenUI.configure(with: YUOR_SDK_KEY)
-```
-
 ### Requirments
 - Xcode 11+
 - Swift 5.1+
@@ -83,6 +72,16 @@ dependencies: [
 ]
 ```
 ### Usage
+#### Init SDK
+1. As we're in `BETA` version, please fill an Issue with your application `Bundle Id` and leave your email and we will send you instantly your DrivenUI SDK Key.
+
+2. You have two ways to init DrivenUI in your application.
+    - If you are using SwiftUI new application life cycle, add configure method into `init` for your main App.
+    - If you are using `AppDelegate`, add configure method into `didFinishLaunchWithOptions` method.
+
+```swift
+Driven.configure(with: YUOR_SDK_KEY)
+```
 #### Basic Usage
 Connect to your Backend and retrieve your JSON response (Check supported views [JSON Structure](#json-structure) formats).
 
