@@ -118,7 +118,8 @@ In your Content View add this build function:
 }
 ```
 <br>
-Use this **buildView** inside your view hierarchy:
+Use this `buildView` inside your view hierarchy:
+
 ```swift
 var body: some View {
     NavigationView {
@@ -129,7 +130,7 @@ var body: some View {
 }
 ```
 <br>
-And **VOILA** your have your views rendered on the screen 🔥
+And VOILA your have your views rendered on the screen 🔥
 
 #### JSON Structure
 Every supported view component is consist of 4 keys each one take a place based on the Component you need to render:
@@ -150,7 +151,7 @@ Every supported view component is consist of 4 keys each one take a place based 
 ```
 <br>
 <details>
-<summary>**Text View Example**</summary>
+<summary>Text View Example</summary>
 <p>
 ```
 {
@@ -170,7 +171,7 @@ Every supported view component is consist of 4 keys each one take a place based 
 </details>
 
 <details>
-<summary>**Image View Example**</summary>
+<summary>Image View Example</summary>
 <p>
 ```
 {
@@ -187,7 +188,7 @@ Every supported view component is consist of 4 keys each one take a place based 
 </details>
 
 <details>
-<summary>**HStack View Example**</summary>
+<summary>HStack View Example</summary>
 <p>
 ```
 {
