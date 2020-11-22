@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "DrivenUI"
-  s.version      = "0.1.0"
+  s.version      = "0.1.1"
   s.summary      = "DrivenUI is an iOS SDK which makes introducing and building Server Driven UI feature into iOS Applications much more convenient."
   s.homepage     = "https://www.kebrahem.dev/"
   s.license      = { :type => 'Commercial', :file => 'LICENSE.md' }
