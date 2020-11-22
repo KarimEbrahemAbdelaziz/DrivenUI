@@ -10,7 +10,7 @@
     <a href="">
         <img src="http://img.shields.io/badge/Swift%20Package%20Manger-available-green.svg?style=flat" alt="SPM" />
     </a>
-    <img src="http://img.shields.io/badge/Version-0.1.0-green.svg?style=flat" alt="Version" />
+    <img src="http://img.shields.io/badge/Version-0.1.1-green.svg?style=flat" alt="Version" />
     <a href="">
         <img src="http://img.shields.io/badge/State-BETA-lightgray.svg?style=flat" alt="MIT License" />
     </a>
@@ -57,7 +57,7 @@
 [CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate DrivenUI into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
-pod 'DrivenUISDK', '~> 0.1.0'
+pod 'DrivenUI', '~> 0.1.1'
 ```
 
 #### Swift Package Manager
@@ -68,7 +68,7 @@ Once you have your Swift package set up, adding DrivenUI as a dependency is as e
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/KarimEbrahemAbdelaziz/DrivenUI.git", .exact("0.1.0"))
+    .package(url: "https://github.com/KarimEbrahemAbdelaziz/DrivenUI.git", .exact("0.1.1"))
 ]
 ```
 
